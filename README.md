@@ -40,7 +40,7 @@ Jenkins Failure → Webhook → AI Analysis → Slack Notification
 Slack Button → Webhook → GitHub Update → Jenkins Build → Slack Confirmation
 ```
 
-<img src="./assets/wokflow1.jpg" alt="Workflow 2 Diagram" style="width:100%;"/>
+<img src="./assets/wokflow2.jpg" alt="Workflow 2 Diagram" style="width:100%;"/>
 
 1. User clicks **"Apply Changes"** in Slack
 2. Workflow updates the Jenkinsfile via GitHub API
